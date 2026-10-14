@@ -1,3 +1,6 @@
+</h1>This HA theme is being marked by spook as not available even if it was in your HACS installed base. Please delete this theme from your cards or dashboards to remove the repair raised by Spook. The Author (Author - [Neil Kalman](https://github.com/thatkookooguy) is invited to update the Theme so it can be re-imported in HACS. </h1>
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/Kibibit/hass-kibibit-theme/" target="blank"><img src="https://thatkookooguy.github.io/https-assets/hassio-theme-logo.png" width="200" alt="achievibit Logo" />
   </a>
